@@ -26,8 +26,8 @@ I love solving problems, building cool things, and sharing knowledge! Enthusiast
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Dhiyanah's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiyanahL&show_icons=true&theme=radical" alt="Dhiyanah's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiyanahL&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
 ---
